@@ -1,0 +1,5 @@
+Age <25: slope=-0.228, intercept=60.509, r=-0.048, n=1568
+Age 25‑34: slope=-0.717, intercept=68.964, r=-0.151, n=5310
+Age 35‑44: slope=-0.729, intercept=69.685, r=-0.158, n=3409
+Age 45‑54: slope=-0.908, intercept=73.370, r=-0.224, n=583
+Age 55+: slope=-0.671, intercept=64.436, r=-0.155, n=57

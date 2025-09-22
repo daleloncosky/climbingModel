@@ -1,0 +1,2 @@
+Male: slope=-1.002, intercept=76.202, r=-0.212, n=9560
+Female: slope=-0.890, intercept=68.458, r=-0.173, n=1367
